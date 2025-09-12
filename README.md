@@ -1,5 +1,3 @@
----
-
 ### **Part 0: The Only Prerequisite - Docker Desktop**
 
 **Goal:** Get the single piece of software we need.
